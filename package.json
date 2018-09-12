@@ -1,7 +1,7 @@
 {
   "name": "to-gettext",
   "main": "./lib/to-gettext",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Transforms normal strings to an special gettext format",
   "keywords": [
     "i18n",
