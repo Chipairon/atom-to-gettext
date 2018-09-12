@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "to-gettext: convert",
+        "command": "to-gettext:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "to-gettext",
+          "submenu": [
+            {
+              "label": "convert",
+              "command": "to-gettext:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
