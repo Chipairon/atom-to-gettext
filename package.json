@@ -1,10 +1,11 @@
 {
   "name": "to-gettext",
   "main": "./lib/to-gettext",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Transforms normal strings to an special gettext format",
   "keywords": [
-    "i18n", "gettext"
+    "i18n",
+    "gettext"
   ],
   "activationCommands": {
     "atom-workspace": "to-gettext:convert"
@@ -14,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
